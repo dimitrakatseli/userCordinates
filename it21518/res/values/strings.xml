@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">User Coordinates</string>
+    <string name="sec_act_button">NEXT</string>
+    <string name="longtitude_edt_txt">Longitude</string>
+    <string name="latitude_edt_txt">Latitude</string>
+    <string name="save_button">SAVE</string>
+    <string name="cordinates_txt">Please insert your Coordinates</string>
+    <string name="userid_txt">Userid</string>
+    <string name="third_act_button">Results</string>
+    <string name="finish_button">Finish</string>
+    <string name="delete_button">Delete</string>
+    <string name="ID">ID</string>
+</resources>
